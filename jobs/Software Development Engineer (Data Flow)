@@ -1,0 +1,23 @@
+---
+title: Software Development Engineer (Data Flow)
+company: TUNE
+url: https://www.tune.com/careers/
+
+location: Seattle
+contract: permanent
+contact:
+    name: Arnold Arnan
+    email: arnold@tune.com
+created: !!timestamp '2016-03-30'
+tags:
+  - python
+  - c++
+  - java
+  - senior
+---
+
+#Overview
+
+We are looking for a Senior Software Engineer to join our Data Flow Team, which solves hard concurrent and distributed programming problems. One of the most established engineering groups at TUNE, they implement the complex back-end systems that make enormous volumes of advertising-related event traffic manageable. Dataflow does the hard work so our products can be simple and deliver value to customers.
+
+Please send a resume to the address above.
